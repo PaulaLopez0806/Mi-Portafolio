@@ -1,0 +1,255 @@
+*{
+box-sizing: border-box;}
+
+body{
+    background-color:rgb(255, 234, 255);
+}
+ .menu{
+    margin-left: 1250px;
+    border-radius: 900px;
+    width: 50px;
+    border-top: -5050px;
+ }
+
+ .whatsapp{
+    margin-left: 200px;
+    border-radius: 30px;
+ }
+
+ .facebook{
+    margin-left: 300px;
+    border-radius: 30px;
+ }
+
+ .instagram{
+    margin-left: 250px;
+    border-radius: 30px;
+ }
+
+ .iconEm{
+    margin-left: 100px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+ .iconCre{
+    margin-top: -200px;
+    margin-left: 300px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+ .iconTraba{
+    margin-top: -200px;
+    margin-left: 500px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+ .iconComuni{
+    margin-top: -210px;
+    margin-left: 700px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+ .iconDeta{
+    margin-top: -200px;
+    margin-left: 900px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+ .iconCol{
+    margin-top: -200px;
+    margin-left: 1120px;
+    border-radius: 60px;
+    border: solid 3px;
+ }
+
+.texEmp{
+    text-align: justify;
+    margin-left: 120px;
+}
+
+.texCre{
+    margin-top: -60px;
+    text-align: justify;
+    margin-left: 315px;
+}
+
+.texTra{
+    margin-top: -900000;
+    text-align: justify;
+    margin-left: 485px;
+    margin-top: -60px;
+}
+
+.texCom{
+    text-align: justify;
+    margin-left: 700px;
+    margin-top: -70px;
+}
+
+.texAt{
+    text-align: justify;
+    margin-left: 880px;
+    margin-top: -65px;
+}
+
+.texEmp{
+    text-align: justify;
+    margin-left: 120px;
+}
+
+.texCol{
+    text-align: justify;
+    margin-left: 1120px;
+    margin-top: -60px;
+}
+
+.bio{
+    display: flex;
+    margin-top: 90px;
+}
+
+ .inicio{
+    color: white;
+    background-color:rgb(128, 40, 128) ;
+    border-radius: 20px;
+    border: solid 1px;
+    margin-left: 200px;
+    width: 150px;
+    font-family: tipografia3;
+    display: flex;
+    justify-content: center;
+ }
+
+ .porta{
+    color: white;
+    background-color:rgb(128, 40, 128) ;
+    border-radius: 20px;
+    border: solid 1px;
+    margin-top: -24px;
+    margin-left: 600px;
+    width: 150px;
+    font-family: tipografia3;
+    display: flex;
+    justify-content: center;
+ }
+
+ .contac{
+    color: white;
+    background-color:rgb(128, 40, 128) ;
+    border-radius: 20px;
+    border: solid 1px;
+    margin-top: -30px;
+    margin-left: 1000px;
+    width: 170px;
+    font-family: tipografia3;
+    display: flex;
+    justify-content: center;
+ }
+
+ .video{
+    margin-left: 525px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .ajeW{
+    margin-left: 250px;
+    border-radius: 60px;
+    background-color: blueviolet;
+    color: black;
+    border: solid 1px;
+    padding: 20px;
+    font-family: tipografia3;
+    justify-content: center;
+ }
+
+ .ositoW{
+    margin-left: 1000px;
+    border-radius: 60px;
+    border: solid 1px;
+    padding: 20px;
+    background-color: blueviolet;
+    color: black;
+    font-family: tipografia3;
+    margin-top: -900px;
+ }
+
+.creditos{
+    justify-content: center;
+    display: flex;
+    margin-top: 90px;
+}
+
+@font-face {
+    font-family: tipografia1;
+    src: url(/tipografia/HennyPenny-Regular.ttf);
+}
+
+@font-face {
+    font-family: tipografia2;
+    src: url(/tipografia/Bangers-Regular.ttf);
+}
+@font-face {
+    font-family: tipografia3;
+    src: url(/tipografia/Boogaloo-Regular.ttf);
+}
+
+@font-face {
+    font-family: tipografia4;
+    src: url(/tipografia/YanoneKaffeesatz-VariableFont_wght.ttf);
+}
+
+h1 {
+    justify-content: center;
+    border-radius: 45px;
+    color: rgb(73, 22, 121);
+    border: solid 2px ;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 520px;
+    font-family: tipografia2;
+    display: flex;
+    
+}
+
+h2{
+    font-family: tipografia1;
+}
+
+h3{
+    font-family: tipografia3;
+}
+
+.port{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.servtA{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.servtC{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.foto1 {
+    display: flex;
+    margin-left: 500px;
+}
+
+.gatoP{
+    display: flex;
+    margin-left: 450px;
+}
+
